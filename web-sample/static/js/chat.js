@@ -1,5 +1,5 @@
 
-var appId = '9DA1B1F4-0BE6-4DA8-82C5-2E81DAB56F23';
+var appId = '91EEEE6D-8D4A-4FA4-9A52-0B8E2DDD64D0'; //SouthKernTest01
 var currScrollHeight = 0;
 var MESSAGE_TEXT_HEIGHT = 27;
 
